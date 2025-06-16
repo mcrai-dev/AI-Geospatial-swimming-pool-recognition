@@ -12,11 +12,11 @@ This project automatically detects **swimming pools** in satellite imagery, base
 
 ## Aperçu visuel
 
-![Example Detection](./screenshot.png) <!-- Remplace par le nom de ton fichier image -->
+![Output](./screenshot.png) 
 
 ---
 
-## ⚙nstallation
+## Installation
 
 ```bash
 git clone [https://github.com/mcrai-dev/AI-Geospatial-swimming-pool-recognition.git](https://github.com/mcrai-dev/AI-Geospatial-swimming-pool-recognition.git)
